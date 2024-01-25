@@ -1,0 +1,30 @@
+					Project name: Fashion MNIST Classification
+					------------------------------------------
+Fashion: 
+--------
+This refers to items related to clothing, accessories, and fashion products.
+
+MNIST:
+-----
+MNIST stands for Modified National Institute of Standards and Technology. It is a well-known dataset in the machine learning community.
+
+Classification:
+--------------
+In the context of machine learning, classification is a type of supervised learning where the goal is to assign predefined labels or categories to input data.
+
+Fashion MNIST Classification," the task is to build a machine learning model that can correctly classify or categorize images of fashion items into different classes or categories.
+
+What we cover in this Project:
+1. Import Libraries
+2. Load Data
+3. Show Image from Numbers
+4. Feature Scalling
+5. Build First Neural Network
+6. Train Model
+7. Test & Evaluate Model
+8. Confusion Matrix
+9. Classification Report
+10. Save Mode
+
+A neural network is a computational model inspired by the way biological neural networks in the human brain work. It is composed of interconnected nodes, called neurons or artificial neurons, which are organized into layers. Neural networks are a fundamental component of machine learning and artificial intelligence.
+
